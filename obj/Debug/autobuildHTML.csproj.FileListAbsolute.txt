@@ -1,0 +1,15 @@
+F:\html css\autobuildHTML\bin\Debug\autobuildHTML.exe.config
+F:\html css\autobuildHTML\bin\Debug\autobuildHTML.exe
+F:\html css\autobuildHTML\bin\Debug\autobuildHTML.pdb
+F:\html css\autobuildHTML\obj\Debug\autobuildHTML.csproj.AssemblyReference.cache
+F:\html css\autobuildHTML\obj\Debug\autobuildHTML.csproj.CoreCompileInputs.cache
+F:\html css\autobuildHTML\obj\Debug\autobuildHTML.exe
+F:\html css\autobuildHTML\obj\Debug\autobuildHTML.pdb
+E:\html css\autobuildHTML\bin\Debug\autobuildHTML.exe.config
+E:\html css\autobuildHTML\bin\Debug\autobuildHTML.exe
+E:\html css\autobuildHTML\bin\Debug\autobuildHTML.pdb
+E:\html css\autobuildHTML\obj\Debug\autobuildHTML.csproj.AssemblyReference.cache
+E:\html css\autobuildHTML\obj\Debug\autobuildHTML.csproj.SuggestedBindingRedirects.cache
+E:\html css\autobuildHTML\obj\Debug\autobuildHTML.csproj.CoreCompileInputs.cache
+E:\html css\autobuildHTML\obj\Debug\autobuildHTML.exe
+E:\html css\autobuildHTML\obj\Debug\autobuildHTML.pdb
